@@ -2,7 +2,7 @@
 
 ## Ststem
 
-[![](https://img.shields.io/badge/macOS-Big%20Sur-e94256?style=flat-square&logo=Apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
+[![](https://img.shields.io/badge/macOS-Monterey-7204E4?style=flat-square&logo=Apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
 [![](https://shields.io/badge/centos-7.0-6495ED?logo=CentOS&logoColor=white&style=flat-square)](https://www.centos.org/)
 
 ## Tools
